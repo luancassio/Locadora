@@ -1,0 +1,36 @@
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.deps.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.runtimeconfig.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.runtimeconfig.dev.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\bin\Debug\net5.0\ref\ApiLocadora.Persistence.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Domain.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.csproj.AssemblyReference.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.AssemblyInfoInputs.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.AssemblyInfo.cs
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.csproj.CopyComplete
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ref\ApiLocadora.Persistence.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.genruntimeconfig.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.deps.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.runtimeconfig.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.runtimeconfig.dev.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\bin\Debug\net5.0\ref\ApiLocadora.Persistence.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Persistence.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\bin\Debug\net5.0\ApiLocadora.Domain.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.csproj.AssemblyReference.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.AssemblyInfoInputs.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.AssemblyInfo.cs
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.csproj.CopyComplete
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ref\ApiLocadora.Persistence.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Persistence\obj\Debug\net5.0\ApiLocadora.Persistence.genruntimeconfig.cache

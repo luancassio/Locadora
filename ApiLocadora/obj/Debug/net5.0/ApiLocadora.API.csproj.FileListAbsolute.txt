@@ -1,0 +1,90 @@
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.AssemblyInfoInputs.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.AssemblyInfo.cs
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.csproj.CoreCompileInputs.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\appsettings.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.exe
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.deps.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.runtimeconfig.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.runtimeconfig.dev.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ref\ApiLocadora.API.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\staticwebassets\ApiLocadora.API.StaticWebAssets.Manifest.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\staticwebassets\ApiLocadora.API.StaticWebAssets.xml
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\scopedcss\bundle\ApiLocadora.API.styles.css
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.RazorTargetAssemblyInfo.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.csproj.CopyComplete
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ref\ApiLocadora.API.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.genruntimeconfig.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.csproj.AssemblyReference.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Humanizer.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Npgsql.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Application.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Persistence.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Application.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Domain.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Persistence.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\appsettings.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.StaticWebAssets.xml
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.exe
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.deps.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.runtimeconfig.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.runtimeconfig.dev.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ref\ApiLocadora.API.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.API.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Npgsql.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Application.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Persistence.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Application.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Domain.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\bin\Debug\net5.0\ApiLocadora.Persistence.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.csproj.AssemblyReference.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.AssemblyInfoInputs.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.AssemblyInfo.cs
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.csproj.CoreCompileInputs.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\scopedcss\bundle\ApiLocadora.API.styles.css
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\staticwebassets\ApiLocadora.API.StaticWebAssets.Manifest.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.RazorTargetAssemblyInfo.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.csproj.CopyComplete
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ref\ApiLocadora.API.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora\obj\Debug\net5.0\ApiLocadora.API.genruntimeconfig.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

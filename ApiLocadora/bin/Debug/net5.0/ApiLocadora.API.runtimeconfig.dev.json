@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\erald\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\erald\\.nuget\\packages"
+    ]
+  }
+}

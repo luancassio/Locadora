@@ -1,0 +1,34 @@
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Application.deps.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Application.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\bin\Debug\net5.0\ref\ApiLocadora.Application.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Application.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Persistence.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Domain.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Persistence.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.csproj.AssemblyReference.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.AssemblyInfoInputs.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.AssemblyInfo.cs
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.csproj.CoreCompileInputs.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.csproj.CopyComplete
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\obj\Debug\net5.0\ref\ApiLocadora.Application.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Application.deps.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Application.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\bin\Debug\net5.0\ref\ApiLocadora.Application.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Application.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Persistence.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Domain.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\bin\Debug\net5.0\ApiLocadora.Persistence.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.csproj.AssemblyReference.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.AssemblyInfoInputs.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.AssemblyInfo.cs
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.csproj.CoreCompileInputs.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.csproj.CopyComplete
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\obj\Debug\net5.0\ref\ApiLocadora.Application.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Application\obj\Debug\net5.0\ApiLocadora.Application.pdb

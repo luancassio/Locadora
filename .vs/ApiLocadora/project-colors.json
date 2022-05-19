@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b19570f-6204-463c-b8ae-61e581136820": {
+      "ProjectGuid": "9b19570f-6204-463c-b8ae-61e581136820",
+      "DisplayName": "ApiLocadora.Application",
+      "ColorIndex": 0
+    },
+    "88b0095b-ead1-41b2-936f-38380daac45b": {
+      "ProjectGuid": "88b0095b-ead1-41b2-936f-38380daac45b",
+      "DisplayName": "ApiLocadora.Domain",
+      "ColorIndex": 1
+    },
+    "74f7c928-7f93-4a1b-82a5-079bf1934bea": {
+      "ProjectGuid": "74f7c928-7f93-4a1b-82a5-079bf1934bea",
+      "DisplayName": "ApiLocadora.Persistence",
+      "ColorIndex": 2
+    },
+    "b3854876-c7a3-463a-a470-8a714e82c549": {
+      "ProjectGuid": "b3854876-c7a3-463a-a470-8a714e82c549",
+      "DisplayName": "ApiLocadora.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

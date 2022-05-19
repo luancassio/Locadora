@@ -1,0 +1,24 @@
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\bin\Debug\net5.0\ApiLocadora.Domain.deps.json
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\bin\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\bin\Debug\net5.0\ref\ApiLocadora.Domain.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\bin\Debug\net5.0\ApiLocadora.Domain.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.AssemblyInfoInputs.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.AssemblyInfo.cs
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.csproj.CoreCompileInputs.cache
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\obj\Debug\net5.0\ref\ApiLocadora.Domain.dll
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.pdb
+C:\Users\erald\source\repos\ApiLocadora\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.csproj.AssemblyReference.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\bin\Debug\net5.0\ApiLocadora.Domain.deps.json
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\bin\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\bin\Debug\net5.0\ref\ApiLocadora.Domain.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\bin\Debug\net5.0\ApiLocadora.Domain.pdb
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.csproj.AssemblyReference.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.AssemblyInfoInputs.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.AssemblyInfo.cs
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\obj\Debug\net5.0\ref\ApiLocadora.Domain.dll
+C:\Users\lcassio\Desktop\Nova pasta\ApiRestLocadoraLuan\ApiLocadora.Domain\obj\Debug\net5.0\ApiLocadora.Domain.pdb
